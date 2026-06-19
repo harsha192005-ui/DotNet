@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+
+    <style>
+        .error{
+            color:red;
+        }
+    </style>
+
+</head>
+<body>
+
+<form id="registrationForm">
+
+    <input type="text"
+           name="username"
+           placeholder="Name">
+
+    <span id="nameError"
+          class="error">
+    </span>
+
+    <br><br>
+
+    <input type="email"
+           name="email"
+           placeholder="Email">
+
+    <span id="emailError"
+          class="error">
+    </span>
+
+    <br><br>
+
+    <select name="event">
+
+        <option value="">
+            Select Event
+        </option>
+
+        <option>
+            Music Festival
+        </option>
+
+        <option>
+            Sports Day
+        </option>
+
+    </select>
+
+    <br><br>
+
+    <button type="submit">
+        Register
+    </button>
+
+</form>
+
+<p id="result"></p>
+
+<script src="forms.js"></script>
+
+</body>
+</html>
