@@ -1,0 +1,15 @@
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/bin/Debug/net8.0/EcommerceSearch
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/bin/Debug/net8.0/EcommerceSearch.deps.json
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/bin/Debug/net8.0/EcommerceSearch.runtimeconfig.json
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/bin/Debug/net8.0/EcommerceSearch.dll
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/bin/Debug/net8.0/EcommerceSearch.pdb
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.AssemblyInfoInputs.cache
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.AssemblyInfo.cs
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.csproj.CoreCompileInputs.cache
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.sourcelink.json
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.dll
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/refint/EcommerceSearch.dll
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.pdb
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/EcommerceSearch.genruntimeconfig.cache
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise02-EcommerceSearch/EcommerceSearch/obj/Debug/net8.0/ref/EcommerceSearch.dll

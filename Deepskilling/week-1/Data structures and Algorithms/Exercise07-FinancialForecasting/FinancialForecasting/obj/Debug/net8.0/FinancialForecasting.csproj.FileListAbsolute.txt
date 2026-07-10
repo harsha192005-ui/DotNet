@@ -1,0 +1,15 @@
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.deps.json
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.runtimeconfig.json
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.dll
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.pdb
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.AssemblyInfoInputs.cache
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.AssemblyInfo.cs
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.csproj.CoreCompileInputs.cache
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.sourcelink.json
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.dll
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/refint/FinancialForecasting.dll
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.pdb
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.genruntimeconfig.cache
+/Users/kirankurapati/Documents/DotNet/Deepskilling/EngineeringConcepts/DSA/Exercise07-FinancialForecasting/FinancialForecasting/obj/Debug/net8.0/ref/FinancialForecasting.dll

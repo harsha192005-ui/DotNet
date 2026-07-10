@@ -1,0 +1,15 @@
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/bin/Debug/net8.0/SingletonPatternExample
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/bin/Debug/net8.0/SingletonPatternExample.deps.json
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/bin/Debug/net8.0/SingletonPatternExample.runtimeconfig.json
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/bin/Debug/net8.0/SingletonPatternExample.dll
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/bin/Debug/net8.0/SingletonPatternExample.pdb
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.AssemblyInfoInputs.cache
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.AssemblyInfo.cs
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.csproj.CoreCompileInputs.cache
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.sourcelink.json
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.dll
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/refint/SingletonPatternExample.dll
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.pdb
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/SingletonPatternExample.genruntimeconfig.cache
+/Users/kirankurapati/Documents/DotNet/Exercise01-Singleton/SingletonPatternExample/obj/Debug/net8.0/ref/SingletonPatternExample.dll
