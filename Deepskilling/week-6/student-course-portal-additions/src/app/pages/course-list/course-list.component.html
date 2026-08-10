@@ -1,0 +1,19 @@
+<h2>Available Courses</h2>
+
+<app-course-summary-widget></app-course-summary-widget>
+
+<input [(ngModel)]="searchTerm" (ngModelChange)="onSearchChange()" placeholder="Search courses..." />
+
+<p *ngIf="isLoading">Loading courses...</p>
+<p class="error" *ngIf="errorMessage">{{ errorMessage }}</p>
+
+<div class="course-grid" *ngIf="!isLoading && !errorMessage">
+  <ng-container *ngIf="filteredCourses.length > 0; else noCourses">
+    <div *ngFor="let course of filteredCourses; trackBy: trackByCourseId" (click)="goToDetail(course.id)" class="clickable">
+      <app-course-card [course]="course" (enrollRequested)="onEnroll($event)"></app-course-card>
+    </div>
+  </ng-container>
+  <ng-template #noCourses><p>No courses available.</p></ng-template>
+</div>
+
+<p *ngIf="selectedCourseId">Selected course ID: {{ selectedCourseId }}</p>

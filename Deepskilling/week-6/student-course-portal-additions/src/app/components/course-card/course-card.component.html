@@ -1,0 +1,6 @@
+<div class="course-card">
+  <h3>{{ course.name }}</h3>
+  <p>{{ course.code }} — {{ course.credits }} credit(s)</p>
+  <span class="badge" [ngClass]="course.gradeStatus">{{ course.gradeStatus }}</span>
+  <button (click)="toggleEnroll($event)">{{ isEnrolled ? 'Unenroll' : 'Enroll' }}</button>
+</div>

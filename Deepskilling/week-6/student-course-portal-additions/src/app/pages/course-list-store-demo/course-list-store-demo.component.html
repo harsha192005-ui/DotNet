@@ -1,0 +1,14 @@
+<h2>Courses (NgRx Store Demo)</h2>
+
+<p *ngIf="loading$ | async">Loading from store...</p>
+<p *ngIf="error$ | async as err">{{ err }}</p>
+
+<div class="grid" *ngIf="(enrolledIds$ | async) as enrolledIds">
+  <div class="card" *ngFor="let c of courses$ | async">
+    <h3>{{ c.name }}</h3>
+    <p>{{ c.code }} — {{ c.credits }} credits</p>
+    <button (click)="toggleEnroll(c.id, enrolledIds)">
+      {{ enrolledIds.includes(c.id) ? 'Unenroll' : 'Enroll' }}
+    </button>
+  </div>
+</div>

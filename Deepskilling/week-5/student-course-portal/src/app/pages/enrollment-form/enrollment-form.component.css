@@ -1,0 +1,9 @@
+.form-wrapper { max-width: 420px; font-family: Arial, sans-serif; }
+.field { margin-bottom: 14px; display: flex; flex-direction: column; }
+.field.checkbox { flex-direction: row; align-items: center; }
+input, select { padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
+.error { color: #d32f2f; font-size: 12px; margin-top: 4px; }
+.success { color: #2e7d32; margin-top: 12px; font-weight: bold; }
+input.ng-invalid.ng-touched { border-color: red; }
+input.ng-valid.ng-touched { border-color: green; }
+button { margin-right: 8px; margin-top: 8px; cursor: pointer; }

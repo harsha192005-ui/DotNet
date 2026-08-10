@@ -1,0 +1,19 @@
+nav {
+  background: #283593;
+  padding: 12px 20px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.brand {
+  color: white;
+  font-weight: bold;
+  margin-right: 20px;
+}
+nav a {
+  color: #e8eaf6;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}

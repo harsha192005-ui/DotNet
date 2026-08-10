@@ -1,0 +1,15 @@
+HO1 Task 1, Step 2 — one-line purpose of each generated file:
+
+angular.json        -> Workspace/build configuration: build targets, styles, assets, budgets.
+tsconfig.json        -> Root TypeScript compiler options shared across the whole workspace.
+tsconfig.app.json     -> TypeScript compiler options specific to the application build.
+package.json        -> Lists npm dependencies, devDependencies, and CLI scripts (ng serve, ng build, ng test).
+src/main.ts        -> Application entry point; bootstraps the root component (AppComponent) with appConfig.
+src/app/app.config.ts  -> Standalone app configuration: providers like router, HTTP client, etc.
+src/app/app.component.ts -> Root component of the application; hosts <router-outlet>.
+src/index.html       -> The single HTML page the SPA is injected into (<app-root> tag lives here).
+
+HO1 Task 1, Step 5 — angular.json budgets:
+Under architect > build > configurations > production > budgets, "maximumWarning" and
+"maximumError" define bundle-size thresholds. Crossing "maximumWarning" logs a build warning;
+crossing "maximumError" fails the build. This keeps production bundles from silently growing too large.

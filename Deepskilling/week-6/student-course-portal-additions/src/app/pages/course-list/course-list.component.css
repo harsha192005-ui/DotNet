@@ -1,0 +1,4 @@
+.course-grid { display: flex; flex-wrap: wrap; }
+.clickable { cursor: pointer; }
+input { margin: 10px 0; padding: 6px 10px; width: 260px; }
+.error { color: #d32f2f; }

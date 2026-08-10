@@ -1,0 +1,25 @@
+<h1>{{ portalName }}</h1>
+<p>Welcome back! Here's a quick look at your academic year.</p>
+
+<div class="stats-row">
+  <div class="stat"><strong>{{ coursesAvailable }}</strong><span>Courses Available</span></div>
+  <div class="stat"><strong>{{ enrolled }}</strong><span>Enrolled</span></div>
+  <div class="stat"><strong>{{ gpa }}</strong><span>GPA</span></div>
+</div>
+
+<!-- property binding: disabled -->
+<button [disabled]="!isPortalActive" (click)="onEnrollClick()">Enroll Now</button>
+<p *ngIf="message">{{ message }}</p>
+
+<!-- two-way binding -->
+<div class="search-box">
+  <label>Search courses:</label>
+  <input [(ngModel)]="searchTerm" placeholder="e.g. Data Structures" />
+  <p>Searching for: {{ searchTerm }}</p>
+</div>
+
+<!--
+  [property]  -> ONE-WAY: component -> DOM only (e.g. [disabled])
+  [(ngModel)] -> TWO-WAY: DOM <-> component. It's shorthand for
+                 [ngModel]="searchTerm" (ngModelChange)="searchTerm = $event"
+-->

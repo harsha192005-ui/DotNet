@@ -1,0 +1,31 @@
+.course-card {
+  border: 1px solid #ddd;
+  border-left: 6px solid grey;
+  border-radius: 8px;
+  padding: 14px;
+  margin: 10px;
+  width: 230px;
+  font-family: Arial, sans-serif;
+  transition: height 0.2s ease;
+}
+.course-card.card--enrolled { background: #e8f5e9; }
+.course-card.card--full { box-shadow: 0 0 0 2px #ffca28 inset; }
+.course-card.expanded { padding-bottom: 22px; }
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 12px;
+  color: white;
+}
+.badge.passed { background: #2e7d32; }
+.badge.failed { background: #c62828; }
+.badge.pending { background: #757575; }
+
+.actions {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+}
+button { cursor: pointer; }
